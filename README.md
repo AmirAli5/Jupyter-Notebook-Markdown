@@ -1,4 +1,5 @@
 ![Jupyter-Notebook-Markdown](https://pbs.twimg.com/media/FZ6YZ00X0AAswHu?format=jpg&name=medium)
+
 In this repo, you'll learn how to use and write with different markup tags in Jupyter Notebook.
 1. Heading
 2. Bold
